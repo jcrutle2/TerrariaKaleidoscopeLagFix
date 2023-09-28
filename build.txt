@@ -1,0 +1,3 @@
+displayName = Kaleidoscope Lag Fix
+author = Me
+version = 0.1

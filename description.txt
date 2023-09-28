@@ -1,0 +1,1 @@
+Kaleidoscope Lag Fix removes the debuff from the Kaleidoscope Whip to prevent lag that can occur on some systems, like my M1 Macbook.
